@@ -1,14 +1,8 @@
 ### Hello there 👋
-
-
-**gramic1990/gramic1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Oracle Databases / PostgreSQL / Linux / Python3
 - 👀 I’m interested in Oracle Database / PostgreSQL / MariaDB / Database Administration / Linux / Unix / Storage / Java / C# / C-C++ / PowerShell / Python / High Performance Dev. / Clustering / LaTex / High Performance Computing (HPC) / Proxmox / Debian GNU/Linux / Oracle Linux / Rocky Linux / Ubuntu Workstation
 - 🌱 I’m currently learning PostgreSQL / C# / Python3 / Python SNMP / Python matplotlib / LaTex / Bibtex - biber / pybtex / Java / Patroni / pgpool-II / pg_auto_failover / yugabyteDB / CloudNativePG
-  <!--
+<!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+--->
