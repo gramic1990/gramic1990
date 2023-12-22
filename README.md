@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🔭 I’m currently working on Oracle Databases / PostgreSQL / Linux / Python3
+- 🔭 I’m currently working on Oracle Databases / PostgreSQL / Linux / Python3 / HP-UX (Itanium) / Oracle Exadata X10M Cloud@Customer
 - 👀 I’m interested in Oracle Database / PostgreSQL / MariaDB / Database Administration / Linux / Unix / Storage / Java / C# / C-C++ / PowerShell / Python / High Performance Dev. / Clustering / LaTex / High Performance Computing (HPC) / Proxmox / Debian GNU/Linux / Oracle Linux / Rocky Linux / Ubuntu Workstation
 - 🌱 I’m currently learning PostgreSQL / C# / Python3 / Python SNMP / Python matplotlib / LaTex / Bibtex - biber / pybtex / Java / Patroni / pgpool-II / pg_auto_failover / yugabyteDB / CloudNativePG
 <!---
